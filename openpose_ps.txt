@@ -1,0 +1,12 @@
+https://github.com/CMU-Perceptual-Computing-Lab/openpose
+	- git clone 으로 받아오기
+
+model > getModels.bat 실행 [모델 설치]
+
+model > pose > mpi 로 이동
+
+설치 후 생기는 모델 파일과 (1600000)
+pose_deploy_linevec_faster_4_stages_prototxt
+
+위 두개 파일을 모델 테스트 코드가 있는 곳으로 옮기기
+이미지 등록 후 코드 실행
